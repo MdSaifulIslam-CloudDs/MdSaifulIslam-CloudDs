@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaifulislam-cloudds&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaifulislam-cloudds" /> </p>
 
-- 🔭 I’m currently working on [The world,s top 1000 billionaires Data Analysis](tinyurl.com/2qlwjjdm)
+- 🔭 I’m currently working on [The world,s top 1000 billionaires Data Analysis]
 
 - 🌱 I’m currently learning **Cloud Computing**
 
