@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Mongo Db**
+- 👯 I’m looking to collaborate on **Generative AI**
 
 - 💬 Ask me about **Data Science**
 
